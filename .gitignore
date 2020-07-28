@@ -129,3 +129,5 @@ dmypy.json
 ngrok
 # Pyre type checker
 .pyre/
+
+expenses.json
