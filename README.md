@@ -21,4 +21,4 @@ Additional: [`nltk`](https://www.nltk.org/install.html)
 - [`cl_budget_tracker.py`](https://github.com/natashamathur/jungle_gym/blob/master/money_on_my_mind/cl_budget_tracker.py) Main run file from command line
 - [`functions_for_budget_tracker.py`](https://github.com/natashamathur/jungle_gym/blob/master/money_on_my_mind/functions_for_budget_tracker.py) Helper functions
 
-##### Developed in this [folder](https://github.com/natashamathur/jungle_gym/tree/master/money_on_my_mind_development).
+##### Initially developed in this [folder](https://github.com/natashamathur/jungle_gym/tree/master/money_on_my_mind_development).
