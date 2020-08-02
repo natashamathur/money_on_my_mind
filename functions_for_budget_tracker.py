@@ -66,7 +66,7 @@ def enter_item(action, ledger, details):
 
         category, amount, item = details.split(" ")
         category, amount, item = category.strip(" "), float(amount), item.strip(" ")
-        category = find_closest(entry, choices=categories)  # account for misspellings
+        category = find_closest(category, choices=categories)  # account for misspellings
         focus = ledger[category]
 
         focus["spent"] = focus["spent"] + amount
@@ -93,7 +93,8 @@ def add_record(action, fn, details):
     manage_ledger("close", ledger=ledger)
 
     if action == "spending":
-        report_card(ledger)
+        print("here")
+        print(report_card(fn))
 
 
 ### REPORTING ###
