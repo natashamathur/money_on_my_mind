@@ -18,7 +18,7 @@ Additional: [`nltk`](https://www.nltk.org/install.html)
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 ## Files
-- [`cl_budget_tracker.py`](https://github.com/natashamathur/jungle_gym/blob/master/money_on_my_mind/cl_budget_tracker.py) Main run file from command line
-- [`functions_for_budget_tracker.py`](https://github.com/natashamathur/jungle_gym/blob/master/money_on_my_mind/functions_for_budget_tracker.py) Helper functions
+- [`cl_budget_tracker.py`](https://github.com/natashamathur/money_on_my_mind/blob/master/cl_budget_tracker.py) Main run file from command line
+- [`functions_for_budget_tracker.py`](https://github.com/natashamathur/jungle_gym/money_on_my_mind/blob/master/functions_for_budget_tracker.py) Helper functions
 
 ##### Initially developed in this [folder](https://github.com/natashamathur/jungle_gym/tree/master/money_on_my_mind_development).
